@@ -265,3 +265,63 @@ Statue of Achilleas Thniskon (*Dying Achilles*) at the [Corfu](https://en.wikipe
 An **Achilles' heel** or **Achilles heel**[[1\]](https://en.wikipedia.org/wiki/Achilles'_heel#cite_note-1)[[2\]](https://en.wikipedia.org/wiki/Achilles'_heel#cite_note-2) is a weakness in spite of overall strength, which can lead to downfall. While the mythological origin refers to a physical vulnerability, idiomatic references to other attributes or qualities that can lead to downfall are common.
 
 ======================
+
+- predicate 谓词
+
+in [grammar](https://dictionary.cambridge.org/zhs/词典/英语/grammar), the [part](https://dictionary.cambridge.org/zhs/词典/英语/part) of a [sentence](https://dictionary.cambridge.org/zhs/词典/英语/sentence) that [contains](https://dictionary.cambridge.org/zhs/词典/英语/contain) the [verb](https://dictionary.cambridge.org/zhs/词典/英语/verb) and gives [information](https://dictionary.cambridge.org/zhs/词典/英语/information) about the [subject](https://dictionary.cambridge.org/zhs/词典/英语/subject):
+
+*In the [sentence](https://dictionary.cambridge.org/zhs/词典/英语/sentence) "We went to the [airport](https://dictionary.cambridge.org/zhs/词典/英语/airport)", "went to the [airport](https://dictionary.cambridge.org/zhs/词典/英语/airport)" is the predicate.*
+
+=====================================
+
+- 包装自己项目英文
+
+**[Steve Angelovich](https://www.yammer.com/halliburton.com/#/users/1663941501)** – [June 17 at 10:16 AM](https://www.yammer.com/halliburton.com/#/Threads/show?threadId=728734596530176)
+
+We just completed a very successful funded development research project on fault interpretation uncertainty with JOGMEC, a Japanese Government Energy Agency. The goals of the project were to better understand fault uncertainty both from a qualitative, and a quantitative, perspective. Faults are a critical component of hydrocarbon exploration, reservoir characterization and field development workflows. Faults frequently control reservoir compartmentalization, control fluid migration, and can present drilling hazards, hence a comprehensive understanding of faulting is a prerequisite to safe and efficient development of hydrocarbon resources. This project started late in February and was broken down into three primary phases.During phase I we concentrated on performing the basic data QC and analysis before preconditioning the seismic data and then computing fault likelihoods. The study area was offshore Australia in the Ichthys Field where we had a full stack and 5 angle sub-stacks. We computed 3 different versions of fault likelihood on each of the stacks resulting in 18 different fault likelihood realizations. If the subsurface was imaged perfectly, all 18 realizations of fault likelihood would be exactly the same but, as anticipated, we found numerous differences in the representations of the subsurface faulting from the different angle sub-stacks.During phase 2 we concentrated on qualitative analysis of the fault uncertainty data. By having multiple realizations of the subsurface faults we were able to perform a statistical analysis on those realizations which provide a number of key insights into whether a particular fault was trustworthy or not. By leveraging the statistical data we were able to derive a number of signatures that could be used to more effectively highlight areas of the fault interpretation that were either very consistent (low risk) or areas where there was significant variance (high risk). Using the statistical information we created a volumetric representation of the most probable fault corridors, which we then loaded into DSG and GeoProbe and compared to existing manual fault interpretations. Using this qualitative view of fault uncertainty we were able to easily identify areas of the manual fault interpretation that were good but more importantly it immediately highlighted areas in the interpretation where the manually picked faults deviated significantly from the fault corridors.During phase 3 we concentrated on techniques to quantify fault interpretation uncertainty. We had to make a decision of whether to utilize existing well known techniques such as dynamic time warping or be brave and explore new ML based approaches. The team opted to explore new ML approaches, leveraging unsupervised ML (clustering) to turn fault likelihood volumes into clustered sets of point clouds which then provided a foundation for extracting information such as changes in fault position and orientation.This research project generated a lot of information about fault uncertainty and we wanted to see if we could leverage that information to generate a predictive model. As a part of phase 3 we also performed a feasibility study using supervised ML technologies to see if we could leverage simple and economical seismic attributes along with some of the previously generated fault uncertainty information to train a network that could then be used to predict areas where fault uncertainty might be high. The feasibility study was performed on a small subset of data but the preliminary results look very promising and warrant further analysis. We have already generated one invention disclosure as part of this work and plan to write a couple of papers either independently or in collaboration with JOGMEC. The workflow and technology to better understand fault uncertainty fits naturally into our Assisted Seismic Interpretation Vision as a part of the DSG365 Seismic Engine product and will be shared for consideration in future releases. I would like to thank Tetsuro and the region for helping us to earn this research opportunity and keeping expectations under control. I would also like to thank the Seismic Engine team for all their hard work and support to make sure that a pre-release version of the system was up to the challenge for this project. We engaged with Dr. Andreas Rueger from [Digital Geo Specialist](https://digitalgeospecialists.com/)s to do this research and without his expertise and hard work this project would not have been possible. Please contact me or Phill if you would like more information about this project.
+
+=====================================
+
+not a slam dunk
+
+so stay tuned
+
+mirror image . flip , skew
+
+throw a hail marry
+
+================================
+
+# permute 美 [pə'mjut
+
+- v.
+
+  序列改变；
+
+# 变形
+
+
+
+# disseminated
+
+英 [dɪ'semɪneɪtɪd] 美 [dɪ'semɪneɪtɪd] 
+
+- v.
+
+  散布，传播( disseminate的过去式和过去分词 )；
+
+========================================
+
+# pumped
+
+ **[adjective](https://www.merriam-webster.com/dictionary/adjective)**
+
+\ ˈpəm(p)t \
+
+## Definition of *pumped*
+
+**:** filled with energetic excitement and enthusiasm*pumped* for the football game
+
+========================
+
+<img src="posterize.png" alt="png" style="zoom:50%;" />
