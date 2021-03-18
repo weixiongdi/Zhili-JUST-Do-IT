@@ -1,1 +1,38 @@
 site_name: My Docs
+nav:
+    - Home: index.md
+    - Python:
+      # - Detailed Design:
+        - Introduction: detailed_design/introduction.md
+        # - User Experience: detailed_design/user_experience.md
+        # - System Architecture:
+        #   - Architecture overview: detailed_design/system_architecture.md
+        #   - Forecasting service API: detailed_design/forecasting_service.md
+        # - Data Management: detailed_design/data_management.md
+        # - Production Forecasting: detailed_design/production_forecasting.md
+        # - References: detailed_design/references.md
+        # - UX design: ux-ui-design/ux-design.md
+    - Java:
+      - Solution Requirements: requirements/requirements.md
+        # - Machine Learning :
+        #   - Grouping Strategy for Production Data: machine_learning/grouping.md
+        #   - Validation Strategy for Production Forecasting: machine_learning/validation_strategy.md
+        #   - Training Pipeline: machine_learning/ml_training_pipeline.md
+        #   - Attempts to Remove Outliers Using Autoencoder: machine_learning/autoencoder/autoencoder.md
+        # - Data Quality:
+        #   - Data Preprocessing for Production Forecasting: Zhili/Zhili_outlier_detection_and_cleansing.md
+        #   - Phase period matching in production life span: Zhili/period_match/Period_Match_pipeline.md
+    # - Well Integrity Management Solution:
+    #     - Data Model: wim/wim_data_model.md
+    - C ++:
+      - Notes: requirements/requirements.md
+    - Other things:
+      - Coming soon: other/mynote.md
+theme: readthedocs
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
