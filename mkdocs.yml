@@ -3,7 +3,8 @@ nav:
     - Home: index.md
     - Python:
       # - Detailed Design:
-        - Old boy python basic: python/introduction.md
+      # - Old boy python basic: python/New python file.md
+      - My python: python/mypython.md
         # - User Experience: detailed_design/user_experience.md
         # - System Architecture:
         #   - Architecture overview: detailed_design/system_architecture.md
@@ -13,7 +14,7 @@ nav:
         # - References: detailed_design/references.md
         # - UX design: ux-ui-design/ux-design.md
     - Java:
-      - Solution Requirements: Java/requirements.md
+      - My Java: Java/myjava.md
         # - Machine Learning :
         #   - Grouping Strategy for Production Data: machine_learning/grouping.md
         #   - Validation Strategy for Production Forecasting: machine_learning/validation_strategy.md
@@ -25,18 +26,21 @@ nav:
     # - Well Integrity Management Solution:
     #     - Data Model: wim/wim_data_model.md
     - C ++:
-      - Notes: CPP/requirements.md
+      - Notes: CPP/my_CPP.md
     - Algorithms:
-        - List: alog/list/list.md
-        - Queue: alog/queue/queue.md
-        - tree: alog/tree/tre.md
-        - graph: algo/graph/hraph.md
+      - List: alog/list/list.md
+      - Queue: alog/queue/queue.md
+      - tree: alog/tree/tree.md
+      - graph: algo/graph/graph.md
     - Cloud:
-        - Mesh: cloud/mesh.md 
-
+      - Mesh: cloud/mesh.md
+    # - Jupyter-Conda:
+    #   - commands:  jupyter-conda/note.md
     - Other things (listed by date):
-      - Coming soon: other/mynote.md
-theme: readthedocs
+      - Other CS stuff: other/mynote.md
+    - Learn the fucking English:
+      - my English notes: english/english_note.md
+theme: ivory #readthedocs
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
