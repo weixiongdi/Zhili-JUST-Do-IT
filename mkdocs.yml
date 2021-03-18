@@ -26,21 +26,22 @@ nav:
     # - Well Integrity Management Solution:
     #     - Data Model: wim/wim_data_model.md
     - C ++:
-      - Notes: CPP/my_CPP.md
+      - My C++ Notes: CPP/my_CPP.md
     - Algorithms:
-      - List: alog/list/list.md
-      - Queue: alog/queue/queue.md
-      - tree: alog/tree/tree.md
-      - graph: algo/graph/graph.md
+      - By data structure: alog/data_struc.md
+      # - List: alog/list/list.md
+      # - Queue: alog/queue/queue.md
+      # - tree: alog/tree/tree.md
+      # - graph: algo/graph/graph.md
     - Cloud:
-      - Mesh: cloud/mesh.md
-    # - Jupyter-Conda:
-    #   - commands:  jupyter-conda/note.md
+      - My cloud: cloud/mesh.md
     - Other things (listed by date):
       - Other CS stuff: other/mynote.md
     - Learn the fucking English:
       - my English notes: english/english_note.md
-theme: ivory #readthedocs
+    - Health:
+      - Health is important!: health/health.md
+theme: readthedocs
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true

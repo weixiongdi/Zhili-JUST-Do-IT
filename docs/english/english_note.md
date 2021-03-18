@@ -324,4 +324,4 @@ throw a hail marry
 
 ========================
 
-<img src="posterize.png" alt="png" style="zoom:50%;" />
+![png](posterize.png)
