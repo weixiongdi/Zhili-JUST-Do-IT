@@ -3,7 +3,7 @@ nav:
     - Home: index.md
     - Python:
       # - Detailed Design:
-        - Introduction: detailed_design/introduction.md
+        - Old boy python basic: python/introduction.md
         # - User Experience: detailed_design/user_experience.md
         # - System Architecture:
         #   - Architecture overview: detailed_design/system_architecture.md
@@ -13,7 +13,7 @@ nav:
         # - References: detailed_design/references.md
         # - UX design: ux-ui-design/ux-design.md
     - Java:
-      - Solution Requirements: requirements/requirements.md
+      - Solution Requirements: Java/requirements.md
         # - Machine Learning :
         #   - Grouping Strategy for Production Data: machine_learning/grouping.md
         #   - Validation Strategy for Production Forecasting: machine_learning/validation_strategy.md
@@ -25,8 +25,16 @@ nav:
     # - Well Integrity Management Solution:
     #     - Data Model: wim/wim_data_model.md
     - C ++:
-      - Notes: requirements/requirements.md
-    - Other things:
+      - Notes: CPP/requirements.md
+    - Algorithms:
+        - List: alog/list/list.md
+        - Queue: alog/queue/queue.md
+        - tree: alog/tree/tre.md
+        - graph: algo/graph/hraph.md
+    - Cloud:
+        - Mesh: cloud/mesh.md 
+
+    - Other things (listed by date):
       - Coming soon: other/mynote.md
 theme: readthedocs
 markdown_extensions:
