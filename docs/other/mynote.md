@@ -78,5 +78,15 @@ conda update
 
 ===========================
 
+3-23-2021
 
+my_wellname=cursor.execute("SELECT DISTINCT \"Well Name\" FROM WELL_PRODUCTION ")
+
+转义，带有space的column name
+
+=======================
+
+work question
+
+![png](work_q1.png)
 
